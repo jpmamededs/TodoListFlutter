@@ -1,16 +1,11 @@
-# to_do_list
+# Flutter To-Do List
 
-To-Do List made in Flutter
+A simple To-Do list app developed with Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+:heavy_plus_sign: Add activities to your to-do list by simply writing the task and pressing the '+' button.<br>
+:x: Delete the task you want by dragging it left and pressing the delete button.<br>
+:heavy_check_mark: Clear all the tasks by clicking in the 'Clear All' button.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Credits to Daniel Ciolfi by teaching how to develop it.
